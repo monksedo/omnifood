@@ -5,8 +5,8 @@ This website is one of my homework project on how to build web front end using H
 
 Designer/Developer: Jonas Schemedtmann
 
-Student/Coding: Chris T. Nguyen
-Yes, I am just following the instruction to learn the HTML and CSS concept tought and code up the site.
+Student/Coding: Chris T. Nguyen 
+In this course, I am just following the HTML5 and CSS3 concepts tought to code up the site.
 
-With the knowledge learned from the training, now I am able to use the knowledge learned, to design and code any new website/app with the same capability and functionality.
+With the knowledge from the training, now I am able to use the all the concepts and techniques to design and code any new website/app with the same capability and functionality.
 
