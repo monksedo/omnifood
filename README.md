@@ -1,5 +1,7 @@
 # Omnifood
 
+[View the page here](https://monksedo.github.io/monifood/)
+
 ### Responsive Website Design with HTML/CSS - Training
 
 <strong>Omnifood</strong> - A learning project that code the front end web site for a frictional food delivery company
