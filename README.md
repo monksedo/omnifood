@@ -1,6 +1,6 @@
 # Omnifood
 
-[View the page here](https://monksedo.github.io/monifood/)
+[View the page here](https://monksedo.github.io/ucb-bootcamp/monifood/)
 
 ### Responsive Website Design with HTML/CSS - Training
 
