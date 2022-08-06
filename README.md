@@ -1,6 +1,6 @@
 # Omnifood
 
-[View the page here](https://monksedo.github.io/omnifood/)
+[View the page here](https://tvn9.github.io/omnifood/)
 
 ### Responsive Website Design with HTML/CSS - Training
 
